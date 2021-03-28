@@ -1,0 +1,11 @@
+{
+  "prefix": "<prefix>",
+  "owner": "<your id>",
+  "productionToken": "<token>",
+  "betaToken": "<beta token>",
+  "topggToken": "<top gg token>",
+  "yes": "<yes emoji id>",
+  "no": "<no emoji id>",
+  "mode": "<start in production or beta>",
+  "debug": <if debug mode is enabled>
+}
